@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Azzoa Grocery</string>
+    <string name="facebook_app_id">777395512834585</string>
+    <string name="fb_login_protocol_scheme">fb777395512834585</string>
+    <string name="google_map_api_key">AIzaSyAQYRbnd3NJqaJFSinQeCwBK_0jB1-IJE4</string>
+</resources>

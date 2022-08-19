@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1072355391925",
+    "firebase_url": "https://azzoa-grocery.firebaseio.com",
+    "project_id": "azzoa-grocery",
+    "storage_bucket": "azzoa-grocery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072355391925:android:f7aa60e96e44731b9c01fc",
+        "android_client_info": {
+          "package_name": "com.itechsoftsolutions.azzoagrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072355391925-rghu5qnj8m50rttqajihsr6m341dd0p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itechsoftsolutions.azzoagrocery",
+            "certificate_hash": "90232ce7be7ea9d5fba125d7bc8c188e9fc40a25"
+          }
+        },
+        {
+          "client_id": "1072355391925-h2s4s7tvh9gnpcl4m4er0cn1ppikf513.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKxcklEzhO-MfNp1L5XpZUwBC6OvXbOh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072355391925-h2s4s7tvh9gnpcl4m4er0cn1ppikf513.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
